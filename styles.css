@@ -289,7 +289,7 @@ body {
 .gallery-item {
   position: relative;
   overflow: hidden;
-  height: 600px;
+  height: 340px;
   background: var(--brown-dark);
 }
 
@@ -351,7 +351,7 @@ body {
   }
 
   .gallery-item {
-    height: 420px;
+    height: 260px;
   }
 
   .gallery-item:nth-child(1) img,
