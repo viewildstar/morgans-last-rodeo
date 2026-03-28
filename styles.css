@@ -524,6 +524,14 @@ body {
   border-radius: 20px;
 }
 
+.activity-dresscode {
+  margin: 8px 0 6px;
+  font-family: var(--font-body);
+  font-size: 0.85rem;
+  color: var(--cream);
+  opacity: 0.85;
+}
+
 /* --- ADD-ONS SECTION --- */
 .addons-section {
   padding: 100px 0;
