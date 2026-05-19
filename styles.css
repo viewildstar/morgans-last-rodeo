@@ -561,6 +561,7 @@ body {
   margin: 0 auto 56px;
   font-style: italic;
   line-height: 1.8;
+  text-align: center;
 }
 
 .addons-grid {
